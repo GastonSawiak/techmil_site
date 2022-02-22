@@ -151,6 +151,7 @@ HOME
     flex-direction : column;
     justify-content : center;
     align-items : center;
+
 }
 
 .heading {
@@ -179,7 +180,7 @@ HOME
     justify-content : center;
     align-items : center;
     background : rgba(255, 255, 255, 0.808);
-    border-radius : 2%;
+    border-radius : 5%;
     width : 7rem;
     height : 7rem;
     align-self : center;
@@ -527,13 +528,13 @@ media queries
     }
 
     .text-wrapper {
-    background : rgba(34, 34, 34, 0);
+    background : linear-gradient(#00000018, #31313181);
     display : grid;
     display: -ms-grid;
     width : 25%;
     padding-left : 2rem;
     border-radius : 10px;
-    backdrop-filter : blur(20px);
+    backdrop-filter : blur(10px);
     padding-top : 2rem;
     padding-bottom : 2rem;
     padding-right : 1rem;
