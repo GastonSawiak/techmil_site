@@ -528,7 +528,7 @@ media queries
     }
 
     .text-wrapper {
-    background : linear-gradient(#00000018, #31313181);
+    background : linear-gradient(#0000001e, #31313181);
     display : grid;
     display: -ms-grid;
     width : 25%;
